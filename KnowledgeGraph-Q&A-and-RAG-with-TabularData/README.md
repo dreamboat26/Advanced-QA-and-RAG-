@@ -6,17 +6,6 @@
 - Chat with a graphDB created from tabular data.
 - RAG with a graphDB created from tabular data.
 
-**Key NOTE:** Remember to NOT use a Neo4j with WRITE privileges. Use only READ and limit the scope. Otherwise your user can manupulate the data (e.g ask your chain to delete data). So, make sure that your database connection permissions are always scoped as narrowly as possible for your chain/agent’s needs (This warning applies to both designing the chatbot and constructing the knowledge graph using LLMs).
-
-**Key NOTE:** Knowledge graphs, which form the backbone of the chatbot's data structure, can be built with input from domain experts or through advanced language models like the Langchain 'LLM Graph Transformer'. 
-
-**Key NOTE:** Familiarity with database query languages such as Pandas for Python, SQL, and Cypher can enhance the user's ability to ask more better questions and have a richer interaction with the graph agent.
-
-**Key NOTE:** Keep that in mind tha LLMs are non-diterministic. Therefore, if you use LLMs for constructing the knowledge graph, you might get slightly different results on each execution.
-
-
-**YouTube video: [Link](https://youtu.be/3NP1llvtrbI?si=t8Gtu74_Mf0p6EFV)**
-
 ## Main underlying techniques used in this chatbot:
 - Knowledge graph construction
 - LLM chains and agents
@@ -31,7 +20,7 @@
 ```
 sudo apt update && sudo apt upgrade
 python3 -m venv tabular-kg-env
-git clone <the repository>
+git clone Advanced-QA-and-RAG-.git
 cd TabularData-KnowledgeGraph-Q&A-With-GPT
 source ...Path to the environment/tabular-kg-env/bin/activate
 pip install -r requirements.txt
