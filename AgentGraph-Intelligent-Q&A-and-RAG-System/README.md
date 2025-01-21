@@ -7,13 +7,6 @@ This project demonstrates how to build an agentic system using Large Language Mo
 
 ---
 
-## Video Explanation: 
-A detailed explanation of the project is available in the following YouTube video:
-
-Automating LLM Agents to Chat with Multiple/Large Databases (Combining RAG and SQL Agents): [Link](https://youtu.be/xsCedrNP9w8?si=v-3k-BoDky_1IRsg)
-
----
-
 ## Requirements
 
 - **Operating System:** Linux or Windows (Tested on Windows 11 with Python 3.9.11)
@@ -29,7 +22,8 @@ To set up the project, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone <repo_address>
+   git clone AgentGraph-Intelligent-Q&A-and-RAG-System.git
+
    ```
 2. Install Python and create a virtual environment:
    ```bash
