@@ -30,7 +30,6 @@ Project-folder
 
 LangGraph_1o1_Agentic_Customer_Support is a project designed to demonstrate how complex systems can be built using LangGraph. In this project, we create an agentic customer service chatbot for Swiss Airlines in four different versions, addressing common real-world challenges at each step. The system supports a wide range of tasks through 18 tools, including Retrieval-Augmented Generation (RAG), web search, and travel planning.
 
-
 **Features:**
 - System Design: Demonstrates stable, effective strategies for building complex systems with LangGraph.
 - Database Interaction: Provides methods for managing sensitive tasks such as writing, cleaning, and updating data in SQL databases.
@@ -41,7 +40,7 @@ LangGraph_1o1_Agentic_Customer_Support is a project designed to demonstrate how 
 <!-- AgentGraph-Intelligent-Q&A-and-RAG-System -->
 <!-- ========================================= -->
 <a id="AgentGraph-Intelligent-Q&A-and-RAG-System"></a>
-<h3><a style=" white-space:nowrap; " href="https://github.com/dreamboat26/Advanced-QA-and-RAG-/tree/main/AgentGraph-Intelligent-Q%26A-and-RAG-System</b></a></h3>
+<h3><a style=" white-space:nowrap; " href="https://github.com/dreamboat26/Advanced-QA-and-RAG-/tree/main/AgentGraph-Intelligent-Q%26A-and-RAG-System"><b>AgentGraph-Intelligent-Q&A-and-RAG-System:</b></a></h3>
 
 This project demonstrates how to build an agentic system using Large Language Models (LLMs) that can interact with multiple databases and utilize various tools. It highlights the use of SQL agents to efficiently query large databases. The key frameworks used in this project include OpenAI, LangChain, LangGraph, LangSmith, and Gradio. The end product is an end-to-end chatbot, designed to perform these tasks, with LangSmith used to monitor the performance of the agents.
 
@@ -75,7 +74,7 @@ This project demonstrates how to build an agentic system using Large Language Mo
 <!-- KnowledgeGraph-Q&A-and-RAG-with-TabularData -->
 <!-- =========================================== -->
 <a id="KnowledgeGraph-Q&A-and-RAG-with-TabularData"></a>
-<h3><a style=" white-space:nowrap; " href="https://github.com/dreamboat26/Advanced-QA-and-RAG-/tree/main/KnowledgeGraph-Q%26A-and-RAG-with-TabularData</b></a></h3>
+<h3><a style=" white-space:nowrap; " href="https://github.com/dreamboat26/Advanced-QA-and-RAG-/tree/main/KnowledgeGraph-Q%26A-and-RAG-with-TabularData"><b>KnowledgeGraph-Q&A-and-RAG-with-TabularData:</b></a></h3>
 
 `KnowledgeGraph-Q&A-and-RAG-with-TabularData` is a chatbot project that utilizes <u>knowledge graph</u>, <u>GPT 3.5</u>, <u>Langchain graph agent</u>, and <u>Neo4j</u> graph database and allows users to interact (perform <u>Q&A and RAG</u>) with Tabular databases (CSV, XLSX, etc.) using natural language. This project also demonstrates an approach for constructing the knowledge graph from unstructured data by leveraging LLMs.
 
@@ -86,5 +85,3 @@ This project demonstrates how to build an agentic system using Large Language Mo
 **Databases:**
 - Movie dataset: [Link](https://raw.githubusercontent.com/tomasonjo/blog-datasets/main/movies/movies_small.csv)
 - Medical reports dataset: [Link](https://github.com/neo4j-partners/neo4j-generative-ai-azure/tree/main/ingestion/data)
-
-**YouTube video:**: [Link](https://youtu.be/3NP1llvtrbI?si=pcL3_StQvqjjnkm9)
