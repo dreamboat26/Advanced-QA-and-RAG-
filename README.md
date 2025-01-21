@@ -41,7 +41,7 @@ LangGraph_1o1_Agentic_Customer_Support is a project designed to demonstrate how 
 <!-- AgentGraph-Intelligent-Q&A-and-RAG-System -->
 <!-- ========================================= -->
 <a id="AgentGraph-Intelligent-Q&A-and-RAG-System"></a>
-<h3><a style=" white-space:nowrap; " href="https://github.com/Farzad-R/Advanced-QA-and-RAG-Series/tree/main/AgentGraph-Intelligent-Q%26A-and-RAG-System"><b>AgentGraph-Intelligent-Q&A-and-RAG-System:</b></a></h3>
+<h3><a style=" white-space:nowrap; " href="https://github.com/dreamboat26/Advanced-QA-and-RAG-/tree/main/AgentGraph-Intelligent-Q%26A-and-RAG-System</b></a></h3>
 
 This project demonstrates how to build an agentic system using Large Language Models (LLMs) that can interact with multiple databases and utilize various tools. It highlights the use of SQL agents to efficiently query large databases. The key frameworks used in this project include OpenAI, LangChain, LangGraph, LangSmith, and Gradio. The end product is an end-to-end chatbot, designed to perform these tasks, with LangSmith used to monitor the performance of the agents.
 
@@ -52,15 +52,11 @@ This project demonstrates how to build an agentic system using Large Language Mo
 - Scalable for large databases.
 - Easily connects to multiple databases.
 
-**YouTube video:**: [Link](https://youtu.be/xsCedrNP9w8?si=LdX45fMZuGhMCEoq)
-
-
-
 <!-- ==================================== -->
 <!-- Q&A-and-RAG-with-SQL-and-TabularData -->
 <!-- ==================================== -->
 <a id="Q&A-and-RAG-with-SQL-and-TabularData"></a>
-<h3><a style=" white-space:nowrap; " href="https://github.com/Farzad-R/Advanced-RAG-Series/tree/main/Q&A-and-RAG-with-SQL-and-TabularData"><b>Q&A-and-RAG-with-SQL-and-TabularData:</b></a></h3>
+<h3><a style=" white-space:nowrap; " href="https://github.com/dreamboat26/Advanced-QA-and-RAG-/tree/main/Q%26A-and-RAG-with-SQL-and-TabularData"><b>Q&A-and-RAG-with-SQL-and-TabularData:</b></a></h3>
 
 `Q&A-and-RAG-with-SQL-and-TabularData` is a chatbot project that utilizes <u>GPT 3.5</u>, <u>Langchain</u>, <u>SQLite</u>, and <u>ChromaDB</u> and allows users to interact (perform <u>Q&A</u> and <u>RAG</u>) with SQL databases, CSV, and XLSX files using natural language.
 
@@ -75,13 +71,11 @@ This project demonstrates how to build an agentic system using Large Language Mo
 - Cancer dataset: [Link](https://www.kaggle.com/datasets/rohansahana/breast-cancer-dataset-for-beginners?select=train.csv)
 - Chinook SQL database: [Link](https://database.guide/2-sample-databases-sqlite/)
 
-**YouTube video:** [Link](https://youtu.be/ZtltjSjFPDg?si=YdIeYcFeP4yzTXKQ)
-
 <!-- =========================================== -->
 <!-- KnowledgeGraph-Q&A-and-RAG-with-TabularData -->
 <!-- =========================================== -->
 <a id="KnowledgeGraph-Q&A-and-RAG-with-TabularData"></a>
-<h3><a style=" white-space:nowrap; " href="https://github.com/Farzad-R/Advanced-RAG-Series/tree/main/KnowledgeGraph-Q&A-and-RAG-with-TabularData"><b>KnowledgeGraph-Q&A-and-RAG-with-TabularData:</b></a></h3>
+<h3><a style=" white-space:nowrap; " href="https://github.com/dreamboat26/Advanced-QA-and-RAG-/tree/main/KnowledgeGraph-Q%26A-and-RAG-with-TabularData</b></a></h3>
 
 `KnowledgeGraph-Q&A-and-RAG-with-TabularData` is a chatbot project that utilizes <u>knowledge graph</u>, <u>GPT 3.5</u>, <u>Langchain graph agent</u>, and <u>Neo4j</u> graph database and allows users to interact (perform <u>Q&A and RAG</u>) with Tabular databases (CSV, XLSX, etc.) using natural language. This project also demonstrates an approach for constructing the knowledge graph from unstructured data by leveraging LLMs.
 
