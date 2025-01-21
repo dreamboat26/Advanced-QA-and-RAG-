@@ -1,6 +1,3 @@
-
----
-
 # AgentGraph: Intelligent SQL-agent Q&A and RAG System for Chatting with Multiple Databases
 
 This project demonstrates how to build an agentic system using Large Language Models (LLMs) that can interact with multiple databases and utilize various tools. It highlights the use of SQL agents to efficiently query large databases. The key frameworks used in this project include OpenAI, LangChain, LangGraph, LangSmith, and Gradio. The end product is an end-to-end chatbot, designed to perform these tasks, with LangSmith used to monitor the performance of the agents.
@@ -22,8 +19,8 @@ To set up the project, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone AgentGraph-Intelligent-Q&A-and-RAG-System.git
-
+   git clone Advanced-QA-and-RAG-.git
+   cd AgentGraph-Intelligent-Q&A-and-RAG-System
    ```
 2. Install Python and create a virtual environment:
    ```bash
@@ -74,11 +71,6 @@ For unstructured data using Retrieval-Augmented Generation (RAG):
    ```bash
    python src\prepare_vector_db.py
    ```
-
-All configurations are managed through YAML files in the `configs` folder, loaded by `src\chatbot\load_config.py` and `src\agent_graph\load_tools_config.py`. These modules are used for a clean distribution of configurations throughout the project.
-
-Once your databases are ready, you can either connect the current agents to the databases or create new agents. More details can be found in the accompanying YouTube video.
-
 ---
 
 ## Project Schemas
