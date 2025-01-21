@@ -1,5 +1,5 @@
 # Advanced-RAG-Series
-This repository contains advanced LLM-based chatbots for Retrieval Augmented Generation (RAG) and Q&A with different databases. (VectorDB, GraphDB, SQLite, CSV, XLSX, etc.). The repository provides guide on using both AzureOpenAI and OpenAI API for each project. Each project is accompanied with a YouTube video that explains all the details. The link to the videos are provided in each section.
+This repository contains advanced LLM-based chatbots for Retrieval Augmented Generation (RAG) and Q&A with different databases. (VectorDB, GraphDB, SQLite, CSV, XLSX, etc.). The repository provides guide on using both AzureOpenAI and OpenAI API for each project. Each project is accompanied with a YouTube video that explains all the details. 
 
 ## List of projects:
 - [x] [LangGraph_1o1_Agentic_Customer_Support](#LangGraph_1o1_Agentic_Customer_Support)
@@ -22,7 +22,6 @@ Project-folder
   |   └── utils           <- Contains all the necessary project modules. 
   └── images              <- Contains all the images used in the user interface and the README file. 
 ```
-NOTE: This is the general structure of the projects, however there might be small changes duo to the specific needs of each project.
 
 ## Key Notes:
 **Key Note 1:** All the project uses OpenAI models.
@@ -42,14 +41,11 @@ NOTE: This is the general structure of the projects, however there might be smal
 
 LangGraph_1o1_Agentic_Customer_Support is a project designed to demonstrate how complex systems can be built using LangGraph. In this project, we create an agentic customer service chatbot for Swiss Airlines in four different versions, addressing common real-world challenges at each step. The system supports a wide range of tasks through 18 tools, including Retrieval-Augmented Generation (RAG), web search, and travel planning.
 
-
 **Features:**
 - System Design: Demonstrates stable, effective strategies for building complex systems with LangGraph.
 - Database Interaction: Provides methods for managing sensitive tasks such as writing, cleaning, and updating data in SQL databases.
 - Workflow Integration: Combines multiple workflows into one seamless system, including web search, SQL database operations, and RAG on vector databases.
 - Design strategies: Explores various strategies to address challenges and optimize system performance.
-
-**YouTube video:**: [Link](TBD)
 
 <!-- ========================================= -->
 <!-- AgentGraph-Intelligent-Q&A-and-RAG-System -->
@@ -65,10 +61,6 @@ This project demonstrates how to build an agentic system using Large Language Mo
 - Automatically chooses the best tool for each task.
 - Scalable for large databases.
 - Easily connects to multiple databases.
-
-**YouTube video:**: [Link](https://youtu.be/xsCedrNP9w8?si=LdX45fMZuGhMCEoq)
-
-
 
 <!-- ==================================== -->
 <!-- Q&A-and-RAG-with-SQL-and-TabularData -->
@@ -89,8 +81,6 @@ This project demonstrates how to build an agentic system using Large Language Mo
 - Cancer dataset: [Link](https://www.kaggle.com/datasets/rohansahana/breast-cancer-dataset-for-beginners?select=train.csv)
 - Chinook SQL database: [Link](https://database.guide/2-sample-databases-sqlite/)
 
-**YouTube video:** [Link](https://youtu.be/ZtltjSjFPDg?si=YdIeYcFeP4yzTXKQ)
-
 <!-- =========================================== -->
 <!-- KnowledgeGraph-Q&A-and-RAG-with-TabularData -->
 <!-- =========================================== -->
@@ -106,5 +96,3 @@ This project demonstrates how to build an agentic system using Large Language Mo
 **Databases:**
 - Movie dataset: [Link](https://raw.githubusercontent.com/tomasonjo/blog-datasets/main/movies/movies_small.csv)
 - Medical reports dataset: [Link](https://github.com/neo4j-partners/neo4j-generative-ai-azure/tree/main/ingestion/data)
-
-**YouTube video:**: [Link](https://youtu.be/3NP1llvtrbI?si=pcL3_StQvqjjnkm9)
